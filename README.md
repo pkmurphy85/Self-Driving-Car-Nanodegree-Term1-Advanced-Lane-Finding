@@ -137,8 +137,8 @@ Image with Lane Lines
 
 ### Pipeline (video)
 
-
-[![Video 2](https://i.imgur.com/dm6d4Ab.png)](https://youtu.be/CmGLsZQRthg "Self Driving Car Project - Advanced Lane Lines - Click to Watch!")
+Click image to watch!
+[![Video](https://i.imgur.com/dm6d4Ab.png)](https://youtu.be/CmGLsZQRthg "Self Driving Car Project - Advanced Lane Lines - Click to Watch!")
 ---
 
 ### Discussion
